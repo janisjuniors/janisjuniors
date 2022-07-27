@@ -4,8 +4,8 @@
 
 <p>Specializing in PHP, but always learning something new!</p>
 <p>I embrace problem solving lifestyle and love being challanged in general.</p>
-<p>The greater the challange, the more glory in overcoming it!</p>
-<p>Hobbies outside programming: working out, learning about financial markets, listening to music.</p>
+<p>I believe that the greater the challange, the more glory and growth in overcoming it!</p>
+<p>Hobbies outside programming: working out, learning about financial markets, listening to music, self-improvement.</p>
 
 
 <p>Send me an e-mail <a href="mailto:janis.jr.snorins@gmail.com"><b>janis.jr.snorins@gmail.com</b></a> or contact me on <a href="https://www.linkedin.com/in/janis-snorins" target="_blank" target="_blank"> <img src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="php" width="17" height="17"/><b>Linkedin</b></a></p>
