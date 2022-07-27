@@ -9,7 +9,7 @@
 <p>Hobbies outside programming: working out, learning about financial markets, listening to music, self-improvement.</p>
 
 
-<p>Send me an e-mail <a href="mailto:janis.jr.snorins@gmail.com"><b>janis.jr.snorins@gmail.com</b></a> or contact me on <a href="https://www.linkedin.com/in/janis-snorins" target="_blank"> <img src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="php" width="17" height="17"/><b>Linkedin</b></a></p>
+<p>Send me an e-mail <a href="mailto:janis.jr.snorins@gmail.com"><b>janis.jr.snorins@gmail.com</b></a> or contact me on <a target="_blank" href="https://www.linkedin.com/in/janis-snorins"> <img src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="php" width="17" height="17"/><b>Linkedin</b></a></p>
 
 <h3 align="left">Languages and Tools I use:</h3>
 <p align="left"> 
