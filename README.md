@@ -6,7 +6,7 @@
 <p>I am continuously evolving my professional skills in front-end & back-end web application development.</p>
 <p>I embrace problem solving lifestyle and love being challanged in general.</p>
 <p>I believe that the greater the challange, the more glory and growth in overcoming it!</p>
-<p>Hobbies outside programming: working out, learning about financial markets, listening to music, self-improvement.</p>
+<p>What am I doing when I'm not programming? Working out, learning about financial markets, listening to music, self-improvement.</p>
 
 
 <p>Send me an e-mail <a href="mailto:janis.jr.snorins@gmail.com"><b>janis.jr.snorins@gmail.com</b></a> or contact me on <a target="_blank" href="https://www.linkedin.com/in/janis-snorins"> <img src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="php" width="17" height="17"/><b>Linkedin</b></a></p>
@@ -16,8 +16,8 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="VueJS">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="VueJS">
   <img src="http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white" alt="PHPStorm">
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode">
 </p>
