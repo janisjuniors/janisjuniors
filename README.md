@@ -39,7 +39,7 @@
 <p>Application that displays most popular latest articles in different categories using API.</p>
   
   
-<h4><a href="https://github.com/janisjuniors/Weather-App" target="_blank" rel="noreferrer">Weather</a></h4>
+<h4><a href="https://github.com/janisjuniors/Weather-App" target="_blank" rel="noreferrer">Weather App</a></h4>
 <p>An application that, looking at the current time, displays the temperature of each of the previous 12 hours and the temperature forecast for each of the next 12 hours. Data is being collected from API.</p>
 
   
