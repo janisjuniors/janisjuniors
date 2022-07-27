@@ -19,19 +19,26 @@ Send me an e-mail **janis.jr.snorins@gmail.com** or connect with me on <a href="
 <h3>MY 3 LATEST PROJECTS</h3>
   
   
+<h4><a href="https://github.com/janisjuniors/Crypto-Assets" target="_blank" rel="noreferrer">News</a></h4>
+Application that displays news articles in different categories using API.
+  
+  <li>MVC architecture</li>
+  <li>Services and Repositories</li>
+  <li>Dependencie Injection</li>
+
+  
   
 <h4><a href="https://github.com/janisjuniors/Crypto-Assets" target="_blank" rel="noreferrer">Cryptocurrency Assets</a></h4>
 Application that displays top 10 cryptocurrencies by market cap using API.
 
-  
   <li>MVC architecture</li>
   <li>Services and Repositories</li>
-
+  
+  
   
 <h4><a href="https://github.com/janisjuniors/Crypto-Assets" target="_blank" rel="noreferrer">Weather</a></h4>
 Application that displays temperature 12 hours bacwards and 12 hour forecast. Data is being collected from API.
 
-  
   <li>MVC architecture</li>
   <li>Services and Repositories</li>
 
