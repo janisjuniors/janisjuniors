@@ -34,3 +34,11 @@ Application that displays top 10 cryptocurrencies by market cap using API.
   <li>MVC architecture</li>
   <li>Services and Repositories</li>
 
+  
+<h4><a href="https://github.com/janisjuniors/Crypto-Assets" target="_blank" rel="noreferrer">Weather</a></h4>
+Application that displays temperature 12 hours bacwards and 12 hour forecast from API
+
+  
+  <li>MVC architecture</li>
+  <li>Services and Repositories</li>
+
