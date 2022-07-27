@@ -3,6 +3,7 @@
 
 
 <p>Specializing in PHP, but always learning something new!</p>
+<p>I am continuously evolving my professional skills in front-end & back-end web application development.</p>
 <p>I embrace problem solving lifestyle and love being challanged in general.</p>
 <p>I believe that the greater the challange, the more glory and growth in overcoming it!</p>
 <p>Hobbies outside programming: working out, learning about financial markets, listening to music, self-improvement.</p>
@@ -34,7 +35,7 @@
   
   
 <h4><a href="https://github.com/janisjuniors/Crypto-Assets" target="_blank" rel="noreferrer">News</a></h4>
-<p>Application that displays news articles in different categories using API.</p>
+<p>Application that displays most popular newest articles in different categories using API.</p>
   
   
 <h4><a href="https://github.com/janisjuniors/Crypto-Assets" target="_blank" rel="noreferrer">Weather</a></h4>
