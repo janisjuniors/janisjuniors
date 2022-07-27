@@ -8,7 +8,7 @@
 <p>Hobbies outside programming: working out, learning about financial markets, listening to music.</p>
 
 
-Send me an e-mail <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20201210105308" alt="php" width="15" height="12"/> **janis.jr.snorins@gmail.com** or contact me on <a href="https://www.linkedin.com/in/janis-snorins" target="_blank" target="_blank" rel="noreferrer"> <img src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="php" width="17" height="17"/>Linkedin</a>.
+Send me an e-mail <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20201210105308" alt="Gmail" width="15" height="12"/> **janis.jr.snorins@gmail.com** or contact me on <a href="https://www.linkedin.com/in/janis-snorins" target="_blank" target="_blank"> <img src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="php" width="17" height="17"/>Linkedin</a>.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
