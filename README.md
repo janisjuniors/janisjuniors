@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jānis</h1>
-<h3 align="center">A passionate software developer from Latvia</h3>
+<h3 align="center">A passionate software developer from Latvia 🇱🇻</h3>
+
+
+I embrace problem solving lifestyle.
+Specializing in PHP, but always learning something new!
+Hobbies outside programming: working out, learning about financial markets
+
+My skill-set: PHP, MySQL, Laravel, Unit & Integration testing (including TDD methods), MVC, SOLID & design patterns (KISS, DRY etc.),
+GIT, Building REST API, HTML & CSS, VueJS basics.
 
 Send me an e-mail **janis.jr.snorins@gmail.com** or connect with me on <a href="https://www.linkedin.com/in/janis-snorins" target="_blank" rel="noreferrer">Linkedin</a>.
 
@@ -16,10 +24,10 @@ Send me an e-mail **janis.jr.snorins@gmail.com** or connect with me on <a href="
 
   
   
-<h3>MY 3 LATEST PROJECTS</h3>
+<h3>MY LATEST PROJECTS</h3>
   
   
-<h4><a href="https://github.com/janisjuniors/Crypto-Assets" target="_blank" rel="noreferrer">News</a></h4>
+<h3><a href="https://github.com/janisjuniors/Crypto-Assets" target="_blank" rel="noreferrer">News</a></h3>
 Application that displays news articles in different categories using API.
   
   <li>MVC architecture</li>
@@ -28,7 +36,7 @@ Application that displays news articles in different categories using API.
 
   
   
-<h4><a href="https://github.com/janisjuniors/Crypto-Assets" target="_blank" rel="noreferrer">Cryptocurrency Assets</a></h4>
+<h3><a href="https://github.com/janisjuniors/Crypto-Assets" target="_blank" rel="noreferrer">Cryptocurrency Assets</a></h3>
 Application that displays top 10 cryptocurrencies by market cap using API.
 
   <li>MVC architecture</li>
@@ -36,7 +44,7 @@ Application that displays top 10 cryptocurrencies by market cap using API.
   
   
   
-<h4><a href="https://github.com/janisjuniors/Crypto-Assets" target="_blank" rel="noreferrer">Weather</a></h4>
+<h3><a href="https://github.com/janisjuniors/Crypto-Assets" target="_blank" rel="noreferrer">Weather</a></h3>
 Application that displays temperature 12 hours bacwards and 12 hour forecast. Data is being collected from API.
 
   <li>MVC architecture</li>
