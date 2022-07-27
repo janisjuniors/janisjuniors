@@ -36,7 +36,7 @@
   
   
 <h4><a href="https://github.com/janisjuniors/Crypto-Assets" target="_blank" rel="noreferrer">News</a></h4>
-<p>Application that displays most popular newest articles in different categories using API.</p>
+<p>Application that displays most popular latest articles in different categories using API.</p>
   
   
 <h4><a href="https://github.com/janisjuniors/Weather-App" target="_blank" rel="noreferrer">Weather</a></h4>
