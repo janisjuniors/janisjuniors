@@ -24,7 +24,7 @@ Send me an e-mail **janis.jr.snorins@gmail.com** or connect with me on <a href="
 
   
   
-<h3>MY LATEST PROJECTS</h3>
+<h3>My latest projects</h3>
   
   
 <h3><a href="https://github.com/janisjuniors/Crypto-Assets" target="_blank" rel="noreferrer">News</a></h3>
