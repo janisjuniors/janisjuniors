@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jānis</h1>
 <h3 align="center">A passionate software developer from Latvia</h3>
 
-Send me an e-mail **janis.jr.snorins@gmail.com** or connect with me on Linkedin.
+Send me an e-mail **janis.jr.snorins@gmail.com** or connect with me on <a href="https://www.linkedin.com/in/janis-snorins" target="_blank" rel="noreferrer">Linkedin</a>.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -29,7 +29,7 @@ Application that displays top 10 cryptocurrencies by market cap using API.
 
   
 <h4><a href="https://github.com/janisjuniors/Crypto-Assets" target="_blank" rel="noreferrer">Weather</a></h4>
-Application that displays temperature 12 hours bacwards and 12 hour forecast from API
+Application that displays temperature 12 hours bacwards and 12 hour forecast. Data is being collected from API.
 
   
   <li>MVC architecture</li>
