@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jānis šņoriņš" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jānis šņoriņš" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/janis-snorins" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jānis šņoriņš" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -27,7 +27,7 @@
   
   
   
-<h4>Cryptocurrency Assets</h4>
+<h4><a href="https://github.com/janisjuniors/Crypto-Assets" target="_blank" rel="noreferrer">Cryptocurrency Assets</a></h4>
 Application that displays top 10 cryptocurrencies by market cap using API.
 
   
