@@ -1,14 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jānis</h1>
 <h3 align="center">A passionate software developer from Latvia</h3>
 
-- 🌱 I’m currently learning **Laravel**
-
-- 📫 How to reach me **janis.jr.snorins@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/janis-snorins" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jānis šņoriņš" height="30" width="40" /></a>
-</p>
+Send me an e-mail **janis.jr.snorins@gmail.com** or connect with me on Linkedin.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
