@@ -39,8 +39,8 @@
 <p>Application that displays most popular newest articles in different categories using API.</p>
   
   
-<h4><a href="https://github.com/janisjuniors/Crypto-Assets" target="_blank" rel="noreferrer">Weather</a></h4>
-<p>Application that displays temperature 12 hours bacwards and 12 hour forecast. Data is being collected from API.</p>
+<h4><a href="https://github.com/janisjuniors/Weather-App" target="_blank" rel="noreferrer">Weather</a></h4>
+<p>An application that, looking at the current time, displays the temperature of each of the previous 12 hours and the temperature forecast for each of the next 12 hours. Data is being collected from API.</p>
 
   
 <h4><a href="https://github.com/janisjuniors/Crypto-Assets" target="_blank" rel="noreferrer">Cryptocurrency Assets</a></h4>
