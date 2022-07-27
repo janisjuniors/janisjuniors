@@ -7,7 +7,7 @@
 <p>Hobbies outside programming: working out, learning about financial markets.</p>
 
 
-Send me an e-mail **janis.jr.snorins@gmail.com** or connect with me on <a href="https://www.linkedin.com/in/janis-snorins" target="_blank" rel="noreferrer">Linkedin</a>.
+Send me an e-mail **janis.jr.snorins@gmail.com** or contact me on <a href="https://www.linkedin.com/in/janis-snorins" target="_blank" rel="noreferrer">Linkedin</a>.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
