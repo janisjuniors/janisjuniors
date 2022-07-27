@@ -3,7 +3,8 @@
 
 
 <p>Specializing in PHP, but always learning something new!</p>
-<p>I embrace problem solving lifestyle and being challanged.</p>
+<p>I embrace problem solving lifestyle and love being challanged in general.</p>
+<p>The greater the challange, the more glory in overcoming it!</p>
 <p>Hobbies outside programming: working out, learning about financial markets.</p>
 
 
@@ -28,23 +29,14 @@ Send me an e-mail **janis.jr.snorins@gmail.com** or contact me on <a href="https
 <h3><a href="https://github.com/janisjuniors/Crypto-Assets" target="_blank" rel="noreferrer">News</a></h3>
 <p>Application that displays news articles in different categories using API.</p>
   
-  <li>MVC architecture</li>
-  <li>Services and Repositories</li>
-  <li>Dependencie Injection</li>
-
   
 <h3><a href="https://github.com/janisjuniors/Crypto-Assets" target="_blank" rel="noreferrer">Weather</a></h3>
 <p>Application that displays temperature 12 hours bacwards and 12 hour forecast. Data is being collected from API.</p>
 
-  <li>MVC architecture</li>
-  <li>Services and Repositories</li>
-  
   
 <h3><a href="https://github.com/janisjuniors/Crypto-Assets" target="_blank" rel="noreferrer">Cryptocurrency Assets</a></h3>
 <p>Application that displays top 10 cryptocurrencies by market cap using API.</p>
 
-  <li>MVC architecture</li>
-  <li>Services and Repositories</li>
   
   
   
