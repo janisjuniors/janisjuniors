@@ -18,7 +18,7 @@ Send me an e-mail <img src="https://upload.wikimedia.org/wikipedia/commons/thumb
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white" alt="PHPStorm">
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode">
- </p>
+</p>
 <p align="left"> 
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
   <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=Composer&logoColor=white" alt="Composer">
@@ -43,8 +43,3 @@ Send me an e-mail <img src="https://upload.wikimedia.org/wikipedia/commons/thumb
   
 <h4><a href="https://github.com/janisjuniors/Crypto-Assets" target="_blank" rel="noreferrer">Cryptocurrency Assets</a></h4>
 <p>Application that displays top 10 cryptocurrencies by market cap using API.</p>
-
-  
-  
-  
-
