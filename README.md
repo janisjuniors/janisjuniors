@@ -44,4 +44,4 @@
 
   
 <h4><a href="https://github.com/janisjuniors/Crypto-Assets" target="_blank" rel="noreferrer">Cryptocurrency Assets</a></h4>
-<p>Application that displays top 10 cryptocurrencies and their current USD price by market cap using API.</p>
+<p>Application that displays top 10 cryptocurrencies by market cap and their current USD price. Data is being collected from API.</p>
