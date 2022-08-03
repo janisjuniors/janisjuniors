@@ -35,7 +35,7 @@
 <h3>MY LATEST PROJECTS</h3>
   
   
-<h4><a href="https://github.com/janisjuniors/Crypto-Assets" target="_blank" rel="noreferrer">News</a></h4>
+<h4><a href="https://github.com/janisjuniors/News" target="_blank" rel="noreferrer">News</a></h4>
 <p>Application that displays most popular latest articles in different categories using API.</p>
   
   
