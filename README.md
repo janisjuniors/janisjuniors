@@ -33,6 +33,9 @@
 
 <h3>MY LATEST PROJECTS</h3>
   
+<h4><a href="https://github.com/janisjuniors/Developer-Task" target="_blank" rel="noreferrer">E-commerce App</a></h4>
+<p>Small e-commerce type application. Four API endpoints, caching mechanism and email service. Backend made with Laravel, front-end made with Vue.js.
+App can be set up with Laravel Sail.</p>
   
 <h4><a href="https://github.com/janisjuniors/News" target="_blank" rel="noreferrer">News</a></h4>
 <p>Application that displays most popular latest articles in different categories using API.</p>
@@ -40,7 +43,3 @@
   
 <h4><a href="https://github.com/janisjuniors/Weather-App" target="_blank" rel="noreferrer">Weather App</a></h4>
 <p>An application that, looking at the current time, displays the temperature of each of the previous 12 hours and the temperature forecast for each of the next 12 hours. Data is being collected from API.</p>
-
-  
-<h4><a href="https://github.com/janisjuniors/Crypto-Assets" target="_blank" rel="noreferrer">Cryptocurrency Assets</a></h4>
-<p>Application that displays top 10 cryptocurrencies by market cap and their current USD price. Data is being collected from API.</p>
