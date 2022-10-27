@@ -41,5 +41,5 @@
 <p>Small e-commerce type application. Four API endpoints, caching mechanism and email service. Backend made with Laravel, front-end made with Vue.js.
 App can be set up with Laravel Sail.</p>
   
-<h4><a href="https://github.com/janisjuniors/News" rel="noreferrer">News</a></h4>
-<p>Application that displays most popular latest articles in different categories using API.</p>
+<h4><a href="https://github.com/janisjuniors/Blog" rel="noreferrer">News</a></h4>
+<p>Simple blog aplication with multiple views. Using Graphql</p>
