@@ -34,12 +34,12 @@
 
 <h3>MY LATEST PROJECTS</h3>
   
-<h4><a href="https://github.com/janisjuniors/CV-Builder" rel="noreferrer">CV Builder</a></h4>
+<h4><a href="https://github.com/janisjuniors/CV-Builder">CV Builder</a></h4>
 <p>Application for CV creation with PDF download feature.</p>
   
-<h4><a href="https://github.com/janisjuniors/Developer-Task" rel="noreferrer">E-commerce App</a></h4>
+<h4><a href="https://github.com/janisjuniors/Developer-Task">E-commerce App</a></h4>
 <p>Small e-commerce type application. Four API endpoints, caching mechanism and email service. Backend made with Laravel, front-end made with Vue.js.
 App can be set up with Laravel Sail.</p>
   
-<h4><a href="https://github.com/janisjuniors/Blog" rel="noreferrer">Blog</a></h4>
-<p>Simple blog aplication with multiple views. Using GraphQL</p>
+<h4><a href="https://github.com/janisjuniors/Blog">Blog</a></h4>
+<p>Simple blog application with multiple views. REST API is replaced with GraphQL.</p>
