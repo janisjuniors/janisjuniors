@@ -12,12 +12,6 @@
   I work out, learn about financial markets, listen to music, play chess, and self-improve.
 </p>
 
-<h3>CONTACTS</h3>
-<p>
-  Send me an e-mail - <a href="mailto:janis.jr.snorins@gmail.com"><b>janis.jr.snorins@gmail.com</b></a> 
-  <br/> Or contact me on <a target="_blank" href="https://www.linkedin.com/in/janis-snorins"> <b>LinkedIn</b></a>
-</p>
-
 <h3>LANGUAGES AND TOOLS I USE</h3>
 <div>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
@@ -54,3 +48,9 @@
 
 <h4><a href="https://github.com/janisjuniors/Check-Weather">Check Weather</a></h4>
 <p>Simple vanilla javascript weather checking, mobile-friendly application.</p>
+
+<h3>CONTACTS</h3>
+<p>
+  Send me an e-mail - <a href="mailto:janis.jr.snorins@gmail.com"><b>janis.jr.snorins@gmail.com</b></a> 
+  <br/> Or contact me on <a target="_blank" href="https://www.linkedin.com/in/janis-snorins"> <b>LinkedIn</b></a>
+</p>
