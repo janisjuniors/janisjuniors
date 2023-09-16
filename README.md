@@ -5,23 +5,28 @@
 <p>
   I am continuously evolving my professional skills in both front-end & back-end web application development.
   <br/>I embrace a problem-solving lifestyle and love being challenged.
-  <br/>I believe that the greater the challenge, the more glory, and growth in overcoming it! 🏆
 </p>
 
-<h3>LANGUAGES AND TOOLS I USE</h3>
+<h3>LANGUAGES I USE</h3>
 <div>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+</div>
+<div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
   <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
 </div>
+
+<h3>FRAMEWORKS I USE</h3>
 <div>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
   <img src="https://svgshare.com/i/phj.svg" alt="Stencil JS">
 </div>
+
+<h3>TOOLS I USE</h3>
 <div>
   <img src="http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white" alt="PHPStorm">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
