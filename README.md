@@ -4,8 +4,8 @@
 <p>I specialize in TypeScript/JavaScript and PHP, but I am always learning something new!</p>
 <p>
   I am continuously evolving my professional skills in both front-end & back-end web application development.
-  <br/>I embrace a problem-solving lifestyle and love being challenged in general.
-  <br/>I believe that the greater the challange, the more glory and growth in overcoming it! 🏆
+  <br/>I embrace a problem-solving lifestyle and love being challenged.
+  <br/>I believe that the greater the challenge, the more glory, and growth in overcoming it! 🏆
 </p>
 
 <h3>LANGUAGES AND TOOLS I USE</h3>
