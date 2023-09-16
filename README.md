@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Janis 👋</h1>
 <h3 align="center">A Passionate Software Developer From Latvia 🇱🇻</h3>
 
-<p>I specialize in TypeScript/JavaScript and PHP, but I am always learning something new!</p>
+<p>I specialize in JavaScript/TypeScript and PHP, but I am always learning something new!</p>
 <p>
   I am continuously evolving my professional skills in both front-end & back-end web application development.
   <br/>I embrace a problem-solving lifestyle and love being challenged.
