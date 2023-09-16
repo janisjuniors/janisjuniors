@@ -7,10 +7,6 @@
   <br/>I embrace a problem-solving lifestyle and love being challenged in general.
   <br/>I believe that the greater the challange, the more glory and growth in overcoming it! 🏆
 </p>
-<p>
-  What am I doing when I'm not programming?<br/>
-  I work out, learn about financial markets, listen to music, play chess, and self-improve.
-</p>
 
 <h3>LANGUAGES AND TOOLS I USE</h3>
 <div>
