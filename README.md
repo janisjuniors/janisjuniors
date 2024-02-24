@@ -8,7 +8,7 @@
   I embrace a problem-solving lifestyle and love being challenged.
 </p>
 
-<h3>MAIN LANGUAGES</h3>
+<h3>PRIMARY LANGUAGES</h3>
 <div>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript"/>
