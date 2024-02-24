@@ -50,14 +50,14 @@
 
 <h3>MY LATEST PROJECTS</h3>
 
-<h4><a href="https://github.com/janisjuniors/CSS-Project">Fully Responsive & Optimized Website</a></h4>
+<h4><a href="https://github.com/janisjuniors/css-project">Fully Responsive & Optimized Website</a></h4>
 <p>CSS Learning project using a design system with responsive design and website optimizations.</p>
 
-<h4><a href="https://github.com/janisjuniors/CV-Builder">CV Builder</a></h4>
+<h4><a href="https://github.com/janisjuniors/cv-builder">CV Builder</a></h4>
 <p>Application for CV creation with PDF download feature.</p>
 
-<h4><a href="https://github.com/janisjuniors/Check-Weather">Check Weather</a></h4>
-<p>Simple vanilla javascript weather checking, mobile-friendly application.</p>
+<h4><a href="https://github.com/janisjuniors/check-weather">Check Weather</a></h4>
+<p>Simple vanilla JavaScript weather-checking, mobile-friendly application.</p>
 
 <h3>CONTACTS</h3>
 <p>
